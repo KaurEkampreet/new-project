@@ -7,6 +7,6 @@
 <body>
 <meta charset="UTF-8">
 <title><?php echo $title;  ?></title>
-<h2>Hi</h2>
-<h3>Hello!</h3>
+<h1>Hi </h1>
+<h2>New Project</h2>
 
